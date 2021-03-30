@@ -10,7 +10,7 @@ Install images and create containers
 
 `$ docker-compose up -d --build`
 
-Create database and tables in the postgrest container
+Create database and fill tables in the postgrest container
 
 ```
 $ docker-compose exec api python manage.py recreate_db
