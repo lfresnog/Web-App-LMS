@@ -25,7 +25,7 @@ Run tests in the client(Next.js)
 
 `$ In progress`
 
-Domain | Descrition
+Domain | Description
 ------------ | -------------
 http://localhost:3007  | Main page client
 http://localhost:5004/ping | GET to test the server
