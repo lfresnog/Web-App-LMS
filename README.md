@@ -24,3 +24,12 @@ Run tests in the server(Flask)
 Run tests in the client(Next.js)
 
 `$ In progress`
+
+Domain | Descrition
+------------ | -------------
+http://localhost:3007  | Main page client
+http://localhost:5004/ping | GET to test the server
+http://localhost:5004/ping | GET to test the server
+http://localhost:5004/users | GET to test the users in the server
+http://localhost:5004/doc | Doc of the server(API REST with Flask)
+http://localhost:5004/admin | CMS
