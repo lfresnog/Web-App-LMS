@@ -29,7 +29,6 @@ Domain | Description
 ------------ | -------------
 http://localhost:3007  | Main page client
 http://localhost:5004/ping | GET to test the server
-http://localhost:5004/ping | GET to test the server
 http://localhost:5004/users | GET to test the users in the server
 http://localhost:5004/doc | Doc of the server(API REST with Flask)
 http://localhost:5004/admin | CMS
