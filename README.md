@@ -28,6 +28,7 @@ Run tests in the client(Next.js)
 Domain | Description
 ------------ | -------------
 http://localhost:3007  | Main page client
+http://localhost:3007/users  | Get in navegator console, users from API
 http://localhost:5004/ping | GET to test the server
 http://localhost:5004/users | GET to test the users in the server
 http://localhost:5004/doc | Doc of the server(API REST with Flask)
